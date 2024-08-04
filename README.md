@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **faustin@tuta.io**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17Trf77G4hR6xePonxQiZ6B-dbPnV-egY/view?usp=sharing](https://drive.google.com/file/d/17Trf77G4hR6xePonxQiZ6B-dbPnV-egY/view?usp=sharing)
+- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/17Trf77G4hR6xePonxQiZ6B-dbPnV-egY/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
