@@ -2,7 +2,7 @@
 <h3 align="center">Statistician | Data Analyst | Data Visualization Specialist</h3>
 
 <p align="center">
-  I transform complex data into actionable insights through statistical analysis, interactive dashboards, and evidence-based reporting — focused on public health, official statistics, monitoring &amp; evaluation, and economic data.
+  I transform complex data into actionable insights through statistical analysis, interactive dashboards, and evidence-based reporting, focused on public health, official statistics, monitoring &amp; evaluation, and economic data.
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ### 👤 About Me
 
-I'm a Rwandan Statistician and Data Analyst with a **BSc in Applied Statistics & Demography** from the University of Rwanda (Class of 2024). I specialize in turning raw survey and administrative data into clear, decision-ready evidence — through statistical analysis, interactive dashboards, and structured reporting.
+I'm a Rwandan Statistician and Data Analyst with a **BSc in Applied Statistics & Demography** from the University of Rwanda (Class of 2024). I specialize in turning raw survey and administrative data into clear, decision-ready evidence through statistical analysis, interactive dashboards, and structured reporting.
 
-I'm especially drawn to **public health, official statistics, monitoring & evaluation, and economic data** — sectors where good analysis has a direct line to better decisions for real people.
+I'm especially drawn to **public health, official statistics, monitoring & evaluation, and economic data**, sectors where good analysis has a direct line to better decisions for real people.
 
 ---
 
@@ -52,7 +52,7 @@ I'm especially drawn to **public health, official statistics, monitoring & evalu
 
 ### 🚀 Featured Project
 
-#### 📊 Rwanda DHS 2019–20 Health Intelligence Dashboard
+#### 📊 Rwanda DHS 2019-20 Health Intelligence Dashboard
 
 Interactive public health dashboard built from DHS microdata covering more than **35,000 survey records**. Features geospatial analysis, demographic indicators, maternal health, fertility, nutrition, and province-level insights.
 
@@ -86,13 +86,23 @@ Interactive public health dashboard built from DHS microdata covering more than 
 
 ### 🎓 Education
 
-**BSc Applied Statistics &amp; Demography** — University of Rwanda (2021–2024)
+**BSc Applied Statistics &amp; Demography**, University of Rwanda (2021-2024)
 
 ---
 
 ### 💼 Currently Open To
 
 `Data Analyst roles` · `Research Assistant roles` · `Monitoring & Evaluation roles` · `Public Health Analytics` · `Consulting`
+
+---
+
+### ☕ Support My Work
+
+If you'd like to support my projects and learning journey, you can send a contribution via:
+
+**MTN Mobile Money (MoMo):** +250 784 885 925
+
+**Ria or MoneyGram:** Faustin Nizeyimana, Kigali, Rwanda, +250 784 885 925
 
 ---
 
